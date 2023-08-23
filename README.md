@@ -10,7 +10,26 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN Stack Development<br>🎯 Goals: Become a Full stack Development</p>
+<p align="left">📚 I'm currently learning Computer Engineering<br><br>🎯 Goals: Become a Full stack Development<br><br>✉️ My Email Id  : atveekdungarani2021@gmail.com</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">🔗Connect with me:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/atveek_dungarani/" target="blank"
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="46" alt="instagram logo"  />
+  <img width="16" /></a>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="46" alt="linkedin logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="46" alt="twitter logo"  />
+</div>
 
 ###
 
@@ -19,21 +38,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="44" alt="tailwindcss logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="react logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="44" alt="express logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="mongodb logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="cplusplus logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="44" alt="c logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="44" alt="oracle logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
 </div>
 
 ###
