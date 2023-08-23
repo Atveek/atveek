@@ -23,12 +23,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/atveek_dungarani/" target="blank">
+  <a href="[https://www.instagram.com/atveek_dungarani/](https://www.instagram.com/atveek_dungarani/)" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="46" alt="instagram logo"  />
   <img width="16" /></a>
+  <a href="https://www.linkedin.com/in/atveek-dungarani-775b72234/?trk=public_profile_browsemap&originalSubdomain=in" target="_blank">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="46" alt="linkedin logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="46" alt="twitter logo"  />
+  <img width="16" /></a>
+  <a href="https://twitter.com/atveekDungarani">
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="46" alt="twitter logo"  /></a>
 </div>
 
 ###
