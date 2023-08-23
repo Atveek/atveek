@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/atveek_dungarani/" target="blank"
+  <a href="https://www.instagram.com/atveek_dungarani/" target="blank">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="46" alt="instagram logo"  />
   <img width="16" /></a>
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="46" alt="linkedin logo"  />
