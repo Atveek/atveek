@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Computer Engineering<br><br>🎯 Goals: Become a Full stack Development<br><br>✉️ My Email Id  : <a href="mailto:atveekdungarani2021@gmail.com">atveekdungarani2021@gmail.com</a></p>
+<p align="left">📚 I'm currently learning Computer Engineering<br><br>🎯 Goals: Become a Full stack Developer<br><br>✉️ My Email Id  : <a href="mailto:atveekdungarani2021@gmail.com">atveekdungarani2021@gmail.com</a></p>
 
 ###
 
