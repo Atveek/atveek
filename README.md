@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Engineering at LDRP Institute of technology and Research.**
 
-- 👨‍💻 All of my projects are available at [[https://drive.google.com/file/d/1UwQ8DrwfpeH9r4yge7qmDqK5yO9Yyuo-/view?usp=drive_link](https://drive.google.com/file/d/1UwQ8DrwfpeH9r4yge7qmDqK5yO9Yyuo-/view?usp=drive_link](https://atveekdungaraniportfolio.vercel.app/))
+- 👨‍💻 All of my projects are available at [(https://atveekdungaraniportfolio.vercel.app/)]((https://atveekdungaraniportfolio.vercel.app/))
 
 - 📫 How to reach me **atveekdungarani2021@gmail.com**
 
